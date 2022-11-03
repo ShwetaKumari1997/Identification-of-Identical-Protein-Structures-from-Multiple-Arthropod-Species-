@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "821933535809",
+    "project_id": "protein-data-f17e2",
+    "storage_bucket": "protein-data-f17e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821933535809:android:a5c5feb47b64ac0e0dccc0",
+        "android_client_info": {
+          "package_name": "com.example.protein_database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821933535809-iinqkrf05eb10t0tc7m2oqvdej519tgn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTbn7zofSekD98xYea1rrAsrLnZ6AwVeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821933535809-iinqkrf05eb10t0tc7m2oqvdej519tgn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
